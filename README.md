@@ -15,5 +15,6 @@ crontab -e
 
 3. Add the Cron Job
 Add this line at the bottom to schedule the script to run once daily at 9 AM:
-
+```
 0 9 * * * /usr/local/bin/check_docker_update.sh >> /var/log/docker_update.log 2>&1
+```
