@@ -1,6 +1,6 @@
 # Scim Get Updated Image Version Information
 A script which checks for a new version of the 1password/scim Docker version and sends this to a webhook
-1. Modify the script to include your webhook as teh WebhookURL value
+1. Modify the script to include your webhook as the WebhookURL value
 ```   
 WebhookURL="" Webhook URL value goes here
 ```  
