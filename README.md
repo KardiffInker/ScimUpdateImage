@@ -2,7 +2,7 @@
 A script which checks for a new version of the 1password/scim Docker version and sends this to a webhook
 1. Modify the script to include your webhook as the WebhookURL value
 ```   
-WebhookURL="" Webhook URL value goes here
+WebhookURL="" #Webhook URL value goes here
 ```  
 2. Save the Script
 Save your script and make it executable:
